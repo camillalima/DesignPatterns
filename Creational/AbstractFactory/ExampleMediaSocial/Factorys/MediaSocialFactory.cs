@@ -1,7 +1,7 @@
-﻿using DesignPatterns.Creational.AbstractFactory.Enums;
-using DesignPatterns.Creational.AbstractFactory.Products;
+﻿using DesignPatterns.Creational.AbstractFactory.ExampleMediaSocial.Enums;
+using DesignPatterns.Creational.AbstractFactory.ExampleMediaSocial.Products;
 
-namespace DesignPatterns.Creational.AbstractFactory.Factorys;
+namespace DesignPatterns.Creational.AbstractFactory.ExampleMediaSocial.Factorys;
 
 public class MediaSocialFactory : AbstractFactory
 {

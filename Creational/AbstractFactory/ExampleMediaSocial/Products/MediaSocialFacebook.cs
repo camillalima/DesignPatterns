@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Creational.AbstractFactory.Products;
+﻿namespace DesignPatterns.Creational.AbstractFactory.Product;
 
 public class MediaSocialFacebook : MediaSocial
 {
